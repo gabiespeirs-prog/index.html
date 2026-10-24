@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Redirects immediately (0 seconds delay) to your destination URL -->
+    <meta http-equiv="refresh" content="0; url=https://YOUR-DESTINATION-LINK.com">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>If you are not redirected automatically, <a href="https://fnnl-fwd3.xyz/?a=1305&oc=24510&c=63992&m=3&s1=">click here</a>.</p>
+
+    <script>
+        window.location.href = "https://fnnl-fwd3.xyz/?a=1305&oc=24510&c=63992&m=3&s1=";
+    </script>
+</body>
+</html>
